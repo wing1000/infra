@@ -5,8 +5,8 @@ import (
 	log "github.com/sirupsen/logrus"
 	"github.com/tietang/dbx"
 	"github.com/tietang/props/kvs"
-	"imooc.com/resk/infra"
-	"imooc.com/resk/infra/logrus"
+	"github.com/wing1000/infra"
+	"github.com/wing1000/infra/logrus"
 )
 
 //dbx 数据库实例

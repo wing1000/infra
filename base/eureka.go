@@ -3,7 +3,7 @@ package base
 import (
 	"github.com/kataras/iris"
 	"github.com/tietang/go-eureka-client/eureka"
-	"imooc.com/resk/infra"
+	"github.com/wing1000/infra"
 	"time"
 )
 

@@ -2,7 +2,7 @@ package base
 
 import (
 	log "github.com/sirupsen/logrus"
-	"imooc.com/resk/infra"
+	"github.com/wing1000/infra"
 	"net"
 	"net/rpc"
 	"reflect"

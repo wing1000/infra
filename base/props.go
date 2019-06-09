@@ -3,7 +3,7 @@ package base
 import (
 	log "github.com/sirupsen/logrus"
 	"github.com/tietang/props/kvs"
-	"imooc.com/resk/infra"
+	"github.com/wing1000/infra"
 	"sync"
 )
 

@@ -6,7 +6,7 @@ import (
 	log "github.com/sirupsen/logrus"
 	"gopkg.in/go-playground/validator.v9"
 	vtzh "gopkg.in/go-playground/validator.v9/translations/zh"
-	"imooc.com/resk/infra"
+	"github.com/wing1000/infra"
 )
 
 var validate *validator.Validate

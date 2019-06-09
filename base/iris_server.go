@@ -5,7 +5,7 @@ import (
 	"github.com/kataras/iris/middleware/logger"
 	irisrecover "github.com/kataras/iris/middleware/recover"
 	log "github.com/sirupsen/logrus"
-	"imooc.com/resk/infra"
+	"github.com/wing1000/infra"
 	"time"
 )
 
